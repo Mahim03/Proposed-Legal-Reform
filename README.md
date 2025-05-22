@@ -1,10 +1,13 @@
 **Introduction**
+
 In the digital age, cybersecurity has become a crucial pillar of national security, economic stability, and individual privacy. Bangladesh, a rapidly digitizing country, faces increasing cyber threats with its growing dependence on digital infrastructure. This assignment explores the need for legal reform in the cyber domain by evaluating global best practices and recommending a resilient legal framework tailored to Bangladesh’s context.
 
 **Current State of Cyber Law in Bangladesh**
+
 Bangladesh’s primary cyber law, the Information and Communication Technology (ICT) Act 2006, and its successor, the Digital Security Act 2018, have drawn both local and international criticism for vague definitions, insufficient protection of digital rights, and potential misuse.
 
 **Challenges in the Existing Cyber Legal Framework**
+
 Lack of Data Privacy Laws: No comprehensive legal protection of personal data.
 
 Overbroad Provisions: Vague definitions in the DSA can be used to suppress freedom of expression.
@@ -16,6 +19,7 @@ Inadequate International Alignment: Poor harmonization with global cybersecurity
 Underdeveloped Cyber Forensics Capabilities
 
 **Global Best Practices in Cyber Law**
+
 4.1 United States: Cybersecurity Information Sharing Act (CISA)
 Encourages threat intelligence sharing between government and private sectors while ensuring privacy protections.
 
