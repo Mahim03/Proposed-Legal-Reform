@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="assets/logo.png" alt="HSTU Logo" width="150"/>
+  <img src="assets/hstu_logo_.png" alt="HSTU Logo" width="150"/>
 </p>
 
 ---
