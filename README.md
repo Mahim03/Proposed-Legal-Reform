@@ -1,5 +1,19 @@
 
+**Assignment Title : Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples**
 
+**Course Title Computer Ethics and Cyber Law
+Course Code: CSE 455 
+Course Credits: 2.00** 
+
+**Submitted to
+Pankaj Bhowmik
+Lecturer
+Department of Computer Science and Engineering (CSE)
+Faculty of Computer Science and Engineering
+Hajee Mohammad Danesh Science & Technology University, Dinajpur.
+Submitted by ,
+Name : Mohammad Mahim
+Std_ID : 2002051**
 
 
 **Introduction**
@@ -7,6 +21,18 @@
 In the digital age, cybersecurity has become a crucial pillar of national security, economic stability, and individual privacy. Bangladesh, a rapidly digitizing country, faces increasing cyber threats with its growing dependence on digital infrastructure. This assignment explores the need for legal reform in the cyber domain by evaluating global best practices and recommending a resilient legal framework tailored to Bangladesh’s context.
 
 **Current State of Cyber Law in Bangladesh**
+
+ICTAct 2006
+
+ • To prevent cybercrimes and regulates e-commerce.
+ • Maximum 10 years of imprisonment/penalty of up to 10 million taka/both.
+ 
+Digital Security Act 2018
+ 
+ • To prevent the spread of racism, sectarianism, extremism, terrorist propaganda,
+ hatred against religious or ethnic minorities through social media, print media,
+ or any other electronic media.
+ • Any content of Pornographic or other inappropriate: fine or imprisonment.
 
 Bangladesh’s primary cyber law, the Information and Communication Technology (ICT) Act 2006, and its successor, the Digital Security Act 2018, have drawn both local and international criticism for vague definitions, insufficient protection of digital rights, and potential misuse.
 
@@ -24,39 +50,39 @@ Underdeveloped Cyber Forensics Capabilities
 
 **Global Best Practices in Cyber Law**
 
-4.1 United States: Cybersecurity Information Sharing Act (CISA)
+United States: Cybersecurity Information Sharing Act (CISA)
 Encourages threat intelligence sharing between government and private sectors while ensuring privacy protections.
 
-4.2 European Union: General Data Protection Regulation (GDPR)
+European Union: General Data Protection Regulation (GDPR)
 A landmark law on data privacy and protection, emphasizing user consent, data minimization, and accountability.
 
-4.3 India: Information Technology Act, 2000
+India: Information Technology Act, 2000
 Amended over time to include digital evidence admissibility, CERT-In operations, and more stringent punishments for cybercrime.
 
-4.4 Singapore: Cybersecurity Act 2018
+Singapore: Cybersecurity Act 2018
 Establishes a licensing framework for cybersecurity service providers, mandates protection of Critical Information Infrastructure (CII), and enforces incident reporting.
 
 **Proposed Legal Reforms for Bangladesh**
 
-5.1 Strengthening Data Protection and Privacy
+1 Strengthening Data Protection and Privacy
 Introduce a dedicated Data Protection Act modeled after GDPR.
 
 Ensure informed consent, data breach notification, and user rights to access/delete data.
 
-5.2 Establishing a Central Cybersecurity Authority
+2 Establishing a Central Cybersecurity Authority
 Create a National Cybersecurity Agency similar to Singapore’s CSA.
 
 Develop a National Cyber Incident Response Plan and enforce sectoral compliance.
 
-5.3 Enhancing International Cooperation
+3 Enhancing International Cooperation
 Sign cybersecurity MOUs with strategic allies and participate in global cybercrime frameworks such as the Budapest Convention.
 
-5.4 Cybercrime Investigation and Digital Forensics Capacity Building
+4 Cybercrime Investigation and Digital Forensics Capacity Building
 Set up digital forensics labs in major cities.
 
 Regular training of law enforcement agencies on cybercrime investigation tools and techniques.
 
-5.5 Encouraging Public-Private Partnerships and Threat Intelligence Sharing
+5 Encouraging Public-Private Partnerships and Threat Intelligence Sharing
 Legal frameworks to enable safe sharing of threat data between sectors.
 
 Government incentives for private cybersecurity R&D and secure infrastructure investments.
