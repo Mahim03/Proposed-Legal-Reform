@@ -22,6 +22,11 @@
 - **Department:** Computer Science and Engineering  
 - **University:** Hajee Mohammad Danesh Science & Technology University
 
+
+<p align="center">
+  <img src="assets/logo.png" alt="HSTU Logo" width="150"/>
+</p>
+
 ---
 
 ## 📖 Introduction
