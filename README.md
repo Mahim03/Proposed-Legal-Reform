@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍🏫 Submitted To
+###  Submitted To
 **Pankaj Bhowmik**  
 Lecturer  
 Department of Computer Science and Engineering (CSE)  
@@ -16,7 +16,7 @@ Hajee Mohammad Danesh Science & Technology University, Dinajpur
 
 ---
 
-### 🙋 Submitted By
+###  Submitted By
 - **Name:** Mohammad Mahim  
 - **Student ID:** 2002051  
 - **Department:** Computer Science and Engineering  
@@ -49,11 +49,11 @@ In today's digital age, cybersecurity underpins national security, economic deve
 
 ## ❗ Challenges in the Current Legal Framework
 
-- ❌ **Lack of Data Privacy Laws**  
-- ❌ **Overbroad Provisions Suppressing Free Speech**  
-- ❌ **Limited Technical Enforcement Capacity**  
-- ❌ **Inadequate International Cyber Law Alignment**  
-- ❌ **Poor Cyber Forensics Infrastructure**
+-  **Lack of Data Privacy Laws**  
+-  **Overbroad Provisions Suppressing Free Speech**  
+-  **Limited Technical Enforcement Capacity**  
+-  **Inadequate International Cyber Law Alignment**  
+-  **Poor Cyber Forensics Infrastructure**
 
 ---
 
@@ -70,31 +70,31 @@ In today's digital age, cybersecurity underpins national security, economic deve
 
 ## ✅ Proposed Legal Reforms for Bangladesh
 
-### 1️⃣ Strengthen Data Protection and Privacy
+### 1️. Strengthen Data Protection and Privacy
 - Draft a **Data Protection Act** inspired by the GDPR.
 - Include provisions for user consent, data deletion, and breach notifications.
 
-### 2️⃣ Establish a Central Cybersecurity Authority
+### 2️. Establish a Central Cybersecurity Authority
 - Create a **National Cybersecurity Agency**.
 - Implement a national incident response and compliance strategy.
 
-### 3️⃣ Enhance International Cooperation
+### 3️. Enhance International Cooperation
 - Sign MOUs and adopt frameworks like the **Budapest Convention**.
 
-### 4️⃣ Improve Cybercrime Investigation Capacity
+### 4️. Improve Cybercrime Investigation Capacity
 - Set up **cyber forensic labs** and train law enforcement.
 
-### 5️⃣ Encourage Public-Private Threat Intelligence Sharing
+### 5️. Encourage Public-Private Threat Intelligence Sharing
 - Promote legal safeguards and R&D incentives for cybersecurity partnerships.
 
 ---
 
 ## 🛠️ Implementation Strategy
 
-- 👥 **Drafting Committee:** Lawyers, IT experts, human rights advocates  
-- 🤝 **Multi-Stakeholder Dialogue:** Industry, NGOs, global partners  
-- 🚀 **Phased Implementation:** Start with data privacy, scale up reforms  
-- 📣 **Public Awareness Campaigns:** Promote digital hygiene and rights
+-  **Drafting Committee:** Lawyers, IT experts, human rights advocates  
+-  **Multi-Stakeholder Dialogue:** Industry, NGOs, global partners  
+-  **Phased Implementation:** Start with data privacy, scale up reforms  
+-  **Public Awareness Campaigns:** Promote digital hygiene and rights
 
 ---
 
