@@ -10,9 +10,9 @@
 
 ###  Submitted To
 **Pankaj Bhowmik**  
-Lecturer  
-Department of Computer Science and Engineering (CSE)  
-Hajee Mohammad Danesh Science & Technology University, Dinajpur
+- Lecturer  
+- Department of Computer Science and Engineering (CSE)  
+- Hajee Mohammad Danesh Science & Technology University, Dinajpur
 
 
 
@@ -65,6 +65,9 @@ In today's digital age, cybersecurity underpins national security, economic deve
 | 🇪🇺 **EU** | General Data Protection Regulation (GDPR) | Data consent, accountability, breach notification |
 | 🇮🇳 **India** | IT Act (2000) | Digital evidence, CERT-In authority, strong punishments |
 | 🇸🇬 **Singapore** | Cybersecurity Act (2018) | Licensing, critical infrastructure protection, incident response |
+| 🇦🇺 **Australia**   | Security of Critical Infrastructure Act       | Government access to networks during threats, infrastructure defense          |
+| 🇨🇦 **Canada**      | Personal Information Protection and Electronic Documents Act (PIPEDA) | Consent-based data collection, data retention rules               |
+| 🇯🇵 **Japan**       | Basic Act on Cybersecurity                   | Public-private collaboration, national strategy alignment                     |
 
 ---
 
@@ -111,3 +114,6 @@ For Bangladesh to thrive in the digital era, it must enact modern, globally info
 - Singapore Cybersecurity Act 2018  
 - US Department of Homeland Security: CISA Overview  
 - India Ministry of Electronics and IT: IT Act, CE
+- Australian Government: Security of Critical Infrastructure Act  
+- Office of the Privacy Commissioner of Canada: PIPEDA
+- Japan Cybersecurity Strategy Headquarters: Cybersecurity Policy  
