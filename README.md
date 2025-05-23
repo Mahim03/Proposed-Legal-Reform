@@ -1,12 +1,12 @@
-# 📘 Building a Resilient Digital Future  
-## Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples  
+# 📘 Building a Resilient Digital Future  : 
+# Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples  
 
 ### 🧾 Course Information
 - **Course Title:** Computer Ethics and Cyber Law  
 - **Course Code:** CSE 455  
 - **Credits:** 2.00  
 
----
+
 
 ###  Submitted To
 **Pankaj Bhowmik**  
@@ -14,7 +14,7 @@ Lecturer
 Department of Computer Science and Engineering (CSE)  
 Hajee Mohammad Danesh Science & Technology University, Dinajpur
 
----
+
 
 ###  Submitted By
 - **Name:** Mohammad Mahim  
