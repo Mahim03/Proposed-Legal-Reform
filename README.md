@@ -35,7 +35,7 @@ In today's digital age, cybersecurity underpins national security, economic deve
 
 ---
 
-## ⚖️ Current State of Cyber Law in Bangladesh
+## 📜 Current State of Cyber Law in Bangladesh
 
 ### 📜 ICT Act 2006
 - Aims to prevent cybercrimes and regulate e-commerce.  
